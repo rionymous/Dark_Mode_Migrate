@@ -7,3 +7,4 @@ Dark Mode atau mode malam adalah mode dimana pada aplikasi android berubah warna
 
 
 Berikut ini rangkuman code tutorial mudah cara membuat dark mode atau mode malam di aplikasi android.
+https://androidrion.com/2019/04/cara-membuat-dark-mode-atau-mode-malam-di-aplikasi-android-studio/
